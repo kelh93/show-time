@@ -1,2 +1,2 @@
 # show-something
-- [] vitrual list
+- [ ] vitrual list
